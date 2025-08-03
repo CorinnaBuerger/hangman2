@@ -17,7 +17,7 @@ private:
 		"hello", "world", "fritz", "hobbit", "corki", 
 		"forki", "coding", "sleep", "python", "book",
 		"haubitze", "hangman", "programmieren", "cola", "corgi", 
-		"porinna", "poperze", "stupsnaeschen", "beepboop", "schifffahrtskapitaenskabinentuer"
+		"stupsnaeschen", "beepboop", "schifffahrtskapitaenskabinentuer"
 	};
 
 	std::array<std::string, 11> hangman{
